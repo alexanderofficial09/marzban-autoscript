@@ -32,5 +32,7 @@ Alan adı (domain) ve SSL sertifikası yapılandırmasıyla birlikte, kullanıma
 ### 1. Script'i indir
 
 ```bash
-wget https://raw.githubusercontent.com/<kullaniciAdi>/<repoAdi>/main/install.sh
+wget https://raw.githubusercontent.com/alexanderofficial09/marzban-autoscript/main/install.sh
 chmod +x install.sh
+sudo bash install.sh
+
