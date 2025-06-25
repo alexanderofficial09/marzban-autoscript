@@ -1,0 +1,2 @@
+# marzban-autoscript
+Marzban
