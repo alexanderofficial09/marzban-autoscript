@@ -24,6 +24,12 @@ Alan adı (domain) ve SSL sertifikası yapılandırmasıyla birlikte, kullanıma
 - Açık portlar: `80`, `443`, `8000`
 - Bir domain veya DuckDNS subdomain (örn: `myvpn.duckdns.org`)
 - Internet bağlantısı
+---
+> ⚠️ **Önemli Not:**  
+> Kurulum sırasında Marzban log ekranı açıldığında **CTRL+C** tuşlarına basarak bu ekranı kapatmalısınız.  
+> Bu sadece log görüntüsüdür, kapatmak kuruluma zarar vermez.
+
+![image](https://github.com/user-attachments/assets/8f2462c6-12cf-46e6-b6d6-3591ee8bf688)
 
 ---
 
